@@ -23,7 +23,8 @@ Then open in your browser:
 http://localhost:8000/?ip=8.8.8.8
 
 ## Example
-![screenshot](https://via.placeholder.com/800x400.png?text=NetScan+Demo)
+![screenshot](https://imgur.com/a/oAAUIAZ)
 
 ## License
 [MIT License](./LICENSE)
+
