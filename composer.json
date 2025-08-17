@@ -1,0 +1,11 @@
+{
+  "name": "netscan/netscan",
+  "description": "Simple PHP IP & Port Scanner",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "NetScan\\": "src/"
+    }
+  },
+  "require": {}
+}
